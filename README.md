@@ -9,7 +9,7 @@
 - 🤝 I’m looking for help with ...
 -->
 
-- 📝 I regulary write articles on Russian **https://olegmorozov.dev/**
+- 📝 I regulary write articles in Russian **https://olegmorozov.dev/**
 
 - 📫 How to reach me **https://t.me/olegmrzv**
 
