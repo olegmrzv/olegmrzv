@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
+  <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="images/dotnet.svg" alt="dotnet" width="40" height="40"/> </a> 
   <a href="https://www.jetbrains.com/rider/" target="_blank"> <img src="https://blog.jetbrains.com/wp-content/uploads/2019/01/rider_icon.svg" alt="rider" width="40" height="40"/> </a> 
   <a href="https://unity.com/" target="_blank"> <img src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab-square-black.png" alt="unity" width="40" height="40"/> </a> </p>
 
