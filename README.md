@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻, I'm Freelance Solution Architect.</h1>
+<h1 align="center">Hi 👋🏻, I'm Solution Architect.</h1>
 <h3 align="center">Everything is data.</h3>
 
 - 🔭 I’m currently working on [scellecs](https://github.com/scellecs)
